@@ -15,3 +15,7 @@ async function scrapeProduct(url) {
 }
 
 scrapeProduct('https://www.trailforks.com/search/?search=tongariro%20alpine%20crossing');
+
+// {
+//   hrefTxt: 'https://www.trailforks.com/trails/tongariro-alpine-crossing/'
+// }
